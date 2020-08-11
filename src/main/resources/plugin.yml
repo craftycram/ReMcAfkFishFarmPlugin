@@ -1,0 +1,6 @@
+name: "ReMcAfkFishFarm"
+description: "Adding ability to use a afk fishfarm"
+authors:
+  - "craftycram"
+version: "1.0" # version of ur plugin
+mainClass: "net.craftycram.remcafkfishfarm.Main"
